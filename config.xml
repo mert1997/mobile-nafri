@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="biz.smartclass.irfan" version="1.7" versionCode="8" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="biz.smartclass.irfan" version="1.8" versionCode="18" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Irfan Okulları : SmartClass</name>
     <description>SmartClass: Okul Bilgi Ve Yönetim Sistemi</description>
     <author email="support@smartclass.biz" href="https://www.smartclass.biz">SmartClass Support</author>
